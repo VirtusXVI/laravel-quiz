@@ -20,3 +20,23 @@
     background-color: #0CC691;
     color: white;
 }
+
+.answer{
+    width: 600px;
+    height: 60px;
+    padding: 15px 20px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.answer_radio{
+    display: none;
+}
+
+.submit_button{
+    padding: 20px 70px;
+    border-radius: 10px;
+    background-color: #0CC691;
+    color: white;
+    width: 50%;
+}
